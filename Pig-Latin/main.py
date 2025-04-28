@@ -33,6 +33,7 @@ def translate(sentence) :
 
     return ' '.join(pig_latin_words)
 
+main()
 # Quick note: this part was hard to figure out. I have had to remove lengths and leading zeroes in excel plenty of times and though of doing something like that, but
 # it's not really super useful here. 
 # also, I had my indentions wrong several times
